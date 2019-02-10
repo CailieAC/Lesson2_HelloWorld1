@@ -7,6 +7,8 @@ namespace Lesson2_HelloWorld1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Example");
+            Console.ReadLine();
         }
     }
 }
